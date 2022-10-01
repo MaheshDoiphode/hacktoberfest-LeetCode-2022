@@ -7,3 +7,8 @@
 - Place: Sydney, Australia
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
+
+##### Name - Vipanshu Suman
+- Place: Pune, India
+- Bio: Aspiring Programmer
+- GitHub - vipu18
