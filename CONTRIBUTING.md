@@ -7,3 +7,8 @@
 - Place: Sydney, Australia
 - Bio: Aspiring Programmer
 - GitHub - DrDSnutts
+
+##### Name: Vidnyani
+- Place: Nagpur, Maharashtra, India
+- Bio: Computer Science Student
+- GitHub: [Vidnyani Umathe](github.com/vidnyani)
