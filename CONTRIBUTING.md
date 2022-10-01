@@ -42,3 +42,7 @@
 - Bio: Software Engineer, Btech 3rd Year
 - GitHub - sritikamanjrekar
 
+##### Name - Nishant Raghuvanshi [https://github.com/nishantraghuvanshi]
+- Place: Delhi, India
+- Bio: Student
+- GitHub - nishantraghuvanshi
