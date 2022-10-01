@@ -100,3 +100,9 @@
 - Place: Delhi, India
 - Bio: Mechanical Engineer, BE 4th Year 
 - GitHub: laksh0709(https://github.com/laksh0709)
+
+#### Name: Anmol Kulshreshtha(https://github.com/anmolkulshrestha)
+- Place: Gwalior,Madhya Pradesh,India
+- Bio: Second year CSE student(IIT VARANASI)
+- GitHub: Raushan-Kumar-Sinha(https://github.com/anmolkulshrestha)
+=======
