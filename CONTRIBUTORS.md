@@ -114,3 +114,8 @@
 - Place: Calcutta, India
 - Bio: Computer Science Engineer, Year Two
 - Github: [Throughfare By The Brooks](https://github.com//Diptonil)
+
+#### Name: [Arshdeep Singh](https://github.com/ArshdeepSingh98)
+- Place: Chandigarh, India
+- Bio: Software Developer
+- Github: [ArshdeepSingh98](https://github.com/ArshdeepSingh98)
