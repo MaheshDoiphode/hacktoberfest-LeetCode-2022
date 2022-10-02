@@ -1,5 +1,6 @@
 # hacktoberfest + LeetCode  
-
+# This repository is excluded from the hacktoberfest event as someone has reported it and hacktoberfest has identified this repo as a violation. So don't contribute to this repo anymore as the PR will be of no use.
+# Thanks for your contribution and Sorry that this happened to those who has already contributed to the repo.
 ____________________________________________________________________________________________________
 ## About Hacktoberfest
 - Hacktoberfest is the month-long event presented by Digital Ocean + intel + DEV. It is open to all and is celebrated worldwide.
