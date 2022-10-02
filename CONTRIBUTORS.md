@@ -114,3 +114,9 @@
 - Place: Calcutta, India
 - Bio: Computer Science Engineer, Year Two
 - Github: [Throughfare By The Brooks](https://github.com//Diptonil)
+
+
+## Name : [Aihrar Shaikh](https://github.com/Aihrarshaikh)
+- Place: Pune , India
+- Bio: Information Technology, 2nd year. Android enthusiast
+- Github: [aihrar_shaikh](https://github.com/Aihrarshaikh)
