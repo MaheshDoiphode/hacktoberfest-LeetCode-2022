@@ -80,6 +80,12 @@
 - Bio: Computer Science Undergrad, MERN Stack Web Developer
 - GitHub: [Srishti2128](https://github.com/Srishti2128)
 =======
+
+#### Name: [Ayush](https://github.com/Ayush-projects)
+- Place: Kolkata, West Bengal, India
+- Bio: IT Undergrad, MERN, MEAN Stack Web Developer
+- GitHub: [Ayush-projects](https://github.com/Ayush-projects)
+=======
 **Any questions regarding anything - implementation, clarification on policies, further reading suggestions, etc.?**
 - Open an Issue with appropriate tags.
 
