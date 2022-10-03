@@ -114,3 +114,8 @@
 - Place: Calcutta, India
 - Bio: Computer Science Engineer, Year Two
 - Github: [Throughfare By The Brooks](https://github.com//Diptonil)
+
+#### Name: [Abhishek Dharmik](https://github.com/KotlinKing)
+- Place: Bengaluru, India
+- Bio: Android Developer
+- GitHub: [KotlinKing](https://github.com/KotlinKing)
