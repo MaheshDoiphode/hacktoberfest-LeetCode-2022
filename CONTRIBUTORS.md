@@ -114,3 +114,8 @@
 - Place: Calcutta, India
 - Bio: Computer Science Engineer, Year Two
 - Github: [Throughfare By The Brooks](https://github.com//Diptonil)
+
+#### Name: [Naman Gupta](https://github.com/Namgup001)
+- Place: Allahabad, UP, India
+- Bio: Aspiring Software Engineer
+- GitHub: [Namgup001](https://github.com/Namgup001)
