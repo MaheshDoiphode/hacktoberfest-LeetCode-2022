@@ -67,7 +67,10 @@
 - Bio: Full Stack Developer
 - GitHub: [ayusshrathore](https://github.com/ayusshrathore)
 =======
-
+#### Name: [Sonal-Maurya](https://github.com/Sonal-Maurya)
+- Place: Lucknow, UP, India
+- Bio: CSE Junior
+- GitHub: [Sonal-Maurya](https://github.com/Sonal-Maurya)
 
 =======
 #### Name: Lakshay Kumar Singh (https://github.com/laksh0709)
@@ -79,6 +82,7 @@
 - Place: Vellore, Tamil Nadu, India
 - Bio: Computer Science Undergrad, MERN Stack Web Developer
 - GitHub: [Srishti2128](https://github.com/Srishti2128)
+- 
 =======
 **Any questions regarding anything - implementation, clarification on policies, further reading suggestions, etc.?**
 - Open an Issue with appropriate tags.
