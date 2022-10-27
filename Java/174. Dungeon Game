@@ -1,0 +1,35 @@
+class Solution {
+    public int calculateMinimumHP(int[][] arr) {
+     	int[][] strg = new int[arr.length + 1][arr[0].length + 1];
+
+		for (int row = strg.length - 1; row >= 0; row--) {
+			for (int col = strg[0].length - 1; col >= 0; col--) {
+				if (row == strg.length - 1 || col == strg[0].length - 1) {
+					strg[row][col] = Integer.MAX_VALUE;
+
+				} else if (row == strg.length - 2 && col == strg[0].length - 2) {
+					strg[row][col] = arr[row][col] <= 0 ? -arr[row][col] + 1 : 1;
+				} else {
+					int r = strg[row][col + 1];
+					int d = strg[row + 1][col];
+
+					int path = Math.min(r, d);
+
+					int amountAlredayHave = path - arr[row][col];
+
+					int ans;
+
+					if (amountAlredayHave >= 1) {
+						ans = amountAlredayHave;
+					} else {
+						ans = 1;
+					}
+
+					strg[row][col] = ans;
+
+				}
+			}
+		}
+		return strg[0][0];
+}
+}
